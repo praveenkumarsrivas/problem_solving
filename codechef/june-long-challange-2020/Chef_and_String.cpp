@@ -12,11 +12,11 @@ int main()
         long long int p2 = 0;
         for (int i = 0; i < str.length(); i++)
         {
-            if (str[i] == 'x' and str[i + 1] == 'y' && i + 1 != str.length())
+            if ((str[i] == 'x' and str[i + 1] == 'y') && (i + 1 != str.length()))
             {
                 p1 += 1;
             }
-            if (str[i] == 'y' and str[i + 1] == 'x' && i + 1 != str.length())
+            if ((str[i] == 'y' and str[i + 1] == 'x') && (i + 1 != str.length()))
             {
                 p2 += 1;
             }
@@ -26,4 +26,3 @@ int main()
 
     return 0;
 }
-
