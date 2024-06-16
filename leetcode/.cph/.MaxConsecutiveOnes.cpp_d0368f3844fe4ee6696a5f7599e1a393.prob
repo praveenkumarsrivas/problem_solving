@@ -1,0 +1,1 @@
+{"name":"Local: MaxConsecutiveOnes","url":"/Users/praveensrivas/Documents/CP_PS/problem_solving/leetcode/MaxConsecutiveOnes.cpp","tests":[{"id":1718534521041,"input":"1 1 0 1 1 1 0","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/praveensrivas/Documents/CP_PS/problem_solving/leetcode/MaxConsecutiveOnes.cpp","group":"local","local":true}
